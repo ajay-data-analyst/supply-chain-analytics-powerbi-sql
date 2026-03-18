@@ -117,11 +117,11 @@ The goal of this project is to answer critical supply chain questions:
 
 ### 🔹 Product & Inventory Analysis
 
-![Product](screenshots/product_analysis.png)
+![Product](screenshots/product.png)
 
 ### 🔹 Supplier & Logistics Performance
 
-![Supplier](screenshots/supplier_logistics.png)
+![Supplier](screenshots/supplier.png)
 
 ---
 
