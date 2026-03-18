@@ -156,7 +156,7 @@ supply-chain-analytics-dashboard
 Hi, I’m Ajay — a freelance Data Analyst specializing in Power BI, SQL, and Excel.
 I build interactive dashboards and data-driven solutions for businesses.
 
-🔗 LinkedIn: https://www.linkedin.com/in/ajay-kumar-56a853398
+🔗 LinkedIn: https://www.linkedin.com/in/ajay6469
 🔗 GitHub: https://github.com/ajay-data-analyst
 
 ---
